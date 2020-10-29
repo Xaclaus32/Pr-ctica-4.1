@@ -1,0 +1,14 @@
+header{
+    background-color: aqua;
+}
+div.rojo{
+    background-color: red;
+}
+div.caja1{
+    background-color: saddlebrown;
+    display:block;
+}
+div.caja2{
+    background-color: salmon;
+    display:inline;
+}
